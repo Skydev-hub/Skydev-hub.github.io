@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.06338db5.css",
-    "main.js": "/static/js/main.dff809a8.js",
+    "main.css": "/static/css/main.3970a73d.css",
+    "main.js": "/static/js/main.36f12152.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/santandreatopproperties.jpg": "/static/media/santandreatopproperties.3840ab0ca1e9a8f136c7.jpg",
@@ -10,20 +10,18 @@
     "static/media/maven.jpg": "/static/media/maven.cd5f3759d3825c64d391.jpg",
     "static/media/giovvani.jpg": "/static/media/giovvani.12bef811225cfb609658.jpg",
     "static/media/bedsulike.jpg": "/static/media/bedsulike.f7d16500daf2d2349760.jpg",
-    "static/media/ME.Reshel.pdf": "/static/media/ME.Reshel.5ad89ee1761a02596361.pdf",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/me.jpg": "/static/media/me.e72b97d19ee16f58713f.jpg",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.06338db5.css.map": "/static/css/main.06338db5.css.map",
-    "main.dff809a8.js.map": "/static/js/main.dff809a8.js.map",
+    "main.3970a73d.css.map": "/static/css/main.3970a73d.css.map",
+    "main.36f12152.js.map": "/static/js/main.36f12152.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06338db5.css",
-    "static/js/main.dff809a8.js"
+    "static/css/main.3970a73d.css",
+    "static/js/main.36f12152.js"
   ]
 }
